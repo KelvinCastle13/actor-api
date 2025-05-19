@@ -9,4 +9,5 @@
 #   end
 
 5.times do
+  actor = Actor.create(first_name: "10", last_name: "11", movie: "12")
 end
